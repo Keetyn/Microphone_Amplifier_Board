@@ -1,6 +1,6 @@
 # Microphone_Amplifier_Board
 
-This is an audio amplifier board capable of taking any small audio signal, differential or singled ended and amplifying it to an output of 30W @ 8 ohms. This was designed, built, and tested as more of an educational exercise than anything else and thus relies on screw terminal inputs for power and requires external power supplies. 
+This is an audio amplifier board capable of taking any small audio signal, differential or singled ended and amplifying it to an output of 30W @ 8 ohms. This was designed, built, and tested as more of an educational exercise than anything else and thus relies on screw terminal inputs for power and requires external power supplies. This is a 4-layer board with the two inner copper layers being used as Ground planes.
 
 The board can be thought of as having four distinct sections:
 
